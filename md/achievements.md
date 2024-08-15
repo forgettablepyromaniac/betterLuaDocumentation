@@ -14,7 +14,7 @@ Story Mode
 the saveTag of the achievement will be the name of the image it looks for when it comes to the unlock image.  
 An example being an achievement with the saveTag of `"myWeek_nomiss"` will look for `images/achievements/myWeek_nomiss.png`
 
-*An example of an achievements.json file can be found [here](../examples/achievements.json).*  
+*An example of an achievements.json file can be found [here](examples/achievements.json).*  
 After setting up your json properly and putting it in **/yourMod/data/**, you can find them in the Awards section.
 
 ## Functions
