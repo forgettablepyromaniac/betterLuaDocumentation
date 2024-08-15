@@ -3,13 +3,13 @@
 
 FOR [0.7.3](https://github.com/ShadowMario/FNF-PsychEngine/releases/tag/0.7.3), website written by [forgettablePyromaniac](https://forgettablepyromaniac.neocities.org/) with [Showdown.js](https://showdownjs.com/)
 
-[Soft-Coded Achievements](../achievements.html)  
-[Soft-Coded Settings](../settings.html)  
-[Lesser-Known Playstate Properties](../properties.html)  
-[Json properties](../json.html)  
-[Animated Pack Icons](../animatedpackicons.html)  
-[Set up discordRPC](../discordRPC.html)  
-[All unconventional keynames](../allPossibleKeys.html)
+[Soft-Coded Achievements](achievements.html)  
+[Soft-Coded Settings](settings.html)  
+[Lesser-Known Playstate Properties](properties.html)  
+[Json properties](json.html)  
+[Animated Pack Icons](animatedpackicons.html)  
+[Set up discordRPC](discordRPC.html)  
+[All unconventional keynames](allPossibleKeys.html)
 
-<!--- [LUA Functions, better documented](../functions.html)  
+<!--- [LUA Functions, better documented](functions.html)  
 TODO: ADD LUA FUNCTIONS  -->
