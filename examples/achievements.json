@@ -1,0 +1,20 @@
+[
+	{
+        "name": "FC myWeek",
+		"description": "Name it Your week JSON file name + \"_nomiss\"\nif you want it to be handled automatically by Psych Engine",
+		"save": "myWeek_nomiss"
+	},
+	{
+        "name": "Test Achievement, No Bar",
+		"description": "The image for this award is being searched at\nimages/achievements/testAchievementNoBar.png",
+		"save": "testAchievementNoBar"
+	},
+	{
+        "name": "Test Achievement, With Bar",
+		"description": "This is an achievement with a Progress Bar.",
+		"save": "testAchievementWithBar",
+		"maxScore": 10,
+		"maxDecimals": 0,
+		"hidden": false
+	}
+]

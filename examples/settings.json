@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Bool",
+		"description": "This is a test bool option.",
+		"save": "testBool",
+		"type": "bool",
+		"value": true
+	},
+	{
+		"name": "Int",
+		"description": "This is a test int option.",
+		"save": "testInt",
+		"type": "int",
+		"value": 0,
+		"min": -10,
+		"max": 10,
+		"step": 1
+	},
+		{
+		"name": "Float",
+		"save": "testFloat",
+		"type": "float",
+		"description": "This is a test float option.",
+		"value": 0,
+		"min": -5.5,
+		"max": 12.8,
+		"step": 0.2, 
+		"decimals": 1, 
+		"scroll": 1
+	},
+	{
+		"name": "Percent",
+		"save": "testPercent",
+		"type": "percent",
+		"description": "This is a test percentage option.",
+		"value": 1,
+		"min": 0,
+		"max": 1.5,
+		"step": 0.1, 
+		"scroll": 1
+	},
+	{
+		"name": "String",
+		"description": "This is a test string option.",
+		"save": "testString",
+		"type": "string",
+		"value": "Game",
+		"format": "cam%v",
+		"options": ["Game", "HUD", "Other"]
+	},
+	{
+		"name": "Test Custom Key",
+		"description": "This is a test key option.",
+		"save": "testBind",
+		"type": "keybind",
+		"keyboard": "SPACE",
+		"gamepad": "RIGHT_TRIGGER"
+	}
+]
