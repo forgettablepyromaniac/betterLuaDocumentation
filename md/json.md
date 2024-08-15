@@ -62,5 +62,5 @@ DEFAULT pack JSON
 `"restart"`: Makes Psych Engine reload from the start.  
 `"runsGlobally"`: Makes scripts and the like run on any mod.  
 `"color"`: [R, G, B] list (min 0, max 255), BG colour when selected.  
-`"discordRPC"`: The discord RPC code for the mod. (Explanation [here](../discordRPC.html)).  
-`"iconFramerate"`: The framerate the Icon will run at (Explanation [here](../animatedpackicons.html)).
+`"discordRPC"`: The discord RPC code for the mod. (Explanation [here](discordRPC.html)).  
+`"iconFramerate"`: The framerate the Icon will run at (Explanation [here](animatedpackicons.html)).
