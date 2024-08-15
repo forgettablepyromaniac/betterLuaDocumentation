@@ -32,7 +32,7 @@ keyboard - The default key on the keyboard for your keybind.
 gamepad - The default button on a controller for your keybind.  
 List of avalible keys [here](../allPossibleKeys.html).
 
-*An example of a settings.json file can be found [here](../examples/settings.json).*  
+*An example of a settings.json file can be found [here](examples/settings.json).*  
 After setting up your json properly and putting it in **/yourMod/data/**, you can find them in the mods folder's options button.
 
 When getting a setting in lua, you call getModSetting(saveTag), where saveTag is the name of the setting under the "save" part of the json.  

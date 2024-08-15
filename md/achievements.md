@@ -24,4 +24,4 @@ unlockAchievement(saveTag) will unlock the achievement "saveTag".
 getAchievementScore(saveTag) returns the current score of an achievement (Float).  
 setAchievementScore(saveTag, value, saveIfNotUnlocked) will set the score of "saveTag" to value. Will only save after the song is over if "saveIfNotUnlocked" is true.
 
-A simple-to-edit lua file I made for custom achievements can be found [here](../examples/sampleAchieve.lua).
+A simple-to-edit lua file I made for custom achievements can be found [here](examples/sampleAchieve.lua).
